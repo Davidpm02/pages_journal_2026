@@ -1,3 +1,9 @@
+---
+layout: post
+title: "20 de enero de 2026"
+date: 2026-01-20
+---
+
 ### Avances en el Bloque 1 del roadmap Full Stack (Git-GitHub)
 
 * He avanzado con el módulo "Code with Codespaces" de GitHub Learn - Skills.
