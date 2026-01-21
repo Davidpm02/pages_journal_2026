@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Journal de avances
 description: Repositorio de avances diarios en los roadmaps de programación y metas personales.
+baseurl: "/pages_journal_2026"
+url: "https://davidpm02.github.io"
