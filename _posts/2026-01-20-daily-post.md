@@ -2,6 +2,8 @@
 layout: post
 title: "20 de enero de 2026"
 date: 2026-01-20
+author: David
+tags: [Git, GitHub, FullStack, Permiso B]
 ---
 
 ### Avances en el Bloque 1 del roadmap Full Stack (Git-GitHub)
