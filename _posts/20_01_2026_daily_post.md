@@ -4,7 +4,7 @@
 
 ---
 
-### Avances en el teórico del permiso B
+### Avances en el teórico del Permiso B
 
 * He revisado las clases del T1 "Definiciones".
 * He hecho el test asociado a este tema.
