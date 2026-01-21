@@ -1,4 +1,4 @@
-### Avances en el bloque de Git-GitHub
+### Avances en el Bloque 1 del roadmap Full Stack (Git-GitHub)
 
 * He avanzado con el módulo "Code with Codespaces" de GitHub Learn - Skills.
 
